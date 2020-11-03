@@ -15,14 +15,14 @@ function Pagination({ pages = 24, setCurrentPages }) {
 
         //1) if user is on page 1: 1 2 ... 24next
         if (currentNumberOfPage >= 1 && currentNumberOfPage <= 2) {
-            tempNumberOfPages = [1, 2, '...', numberOfpages.length]
+            tempNumberOfPages = [1, 2, '...', numberOfpages.length] //[1,2,'...',24]
         }
 
 
         //2) if user is on page 3: previous 1 2 3 4 ... 24 next
         else if (currentNumberOfPage === 3) {
-            const sliced = numberOfpages.slice(0, 4)
-            tempNumberOfPages = [...sliced, '...', numberOfpages.length]
+            const sliced = numberOfpages.slice(0, 4) //[1,2,3,4]
+            tempNumberOfPages = [...sliced, '...', numberOfpages.length] //[1,2,3,4,'...',24]
         }
 
         //3) from page number 4 till 22: previous 1... 9 10 11 ... 24 next
@@ -44,7 +44,7 @@ function Pagination({ pages = 24, setCurrentPages }) {
     return (
             <div className="pagination-container">
                 <a 
-                href="#"
+                href="!#"
                 className={`${currentNumberOfPage === 1 ? 'display_none' : ''}`}
                 onClick = {() => setCurrentNumberOfPage((previousState) => previousState === 1 ? previousState : previousState - 1)}>
                     previous</a>
@@ -52,7 +52,7 @@ function Pagination({ pages = 24, setCurrentPages }) {
                 {arrOfCurrentPage.map(((page, ind) => {
                     return(
                     <a 
-                    href="#" 
+                    href="!#" 
                     key={ind}
                     className={`${currentNumberOfPage === page ? 'active' : ''}`}
                     onClick={() => setCurrentNumberOfPage(page)}
@@ -64,7 +64,7 @@ function Pagination({ pages = 24, setCurrentPages }) {
                 }))}
 
                 <a 
-                href="#"
+                href="!#"
                 className={`${currentNumberOfPage === numberOfpages.length ? 'display_none' : ''}`}
                 onClick = {() => setCurrentNumberOfPage((previousState) => previousState === numberOfpages.length ? previousState : previousState + 1)}>
                     next</a>
