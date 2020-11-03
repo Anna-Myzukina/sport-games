@@ -1,0 +1,6280 @@
+{
+  "games": [
+    {
+      "sport": "Football",
+      "name": "SK Rapid Wien vs. SCR Altach",
+      "league": "Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Olympique Marseille (Void) vs. AS Monaco FC (Gernaut)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Stiinta Bacau vs. CS Medgidia",
+      "league": "Div 1, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Potenza Calcio vs. Cavese 1919",
+      "league": "Serie C, Group C",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Morecambe FC vs. Exeter City",
+      "league": "League Two",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "OGC Nice (Libra) vs. Olympique Lyonnais (Fasqer)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "SK Sturm Graz vs. LASK",
+      "league": "Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Ternana Calcio vs. US Catanzaro 1929",
+      "league": "Serie C, Group C",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Olympique Marseille (Void) vs. OGC Nice (Libra)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Stade Rennais (Walker) vs. Montpellier HSC (Quavo)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Admira Wacker Modling vs. Wolfsberger AC",
+      "league": "Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Casertana FC vs. SS Turris Calcio",
+      "league": "Serie C, Group C",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Losc Lille (Dragonborn) vs. AS Monaco FC (Gernaut)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Blackburn Rovers vs. Middlesbrough FC",
+      "league": "Championship",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "U Jolidon Cluj vs. Cso Voluntari 2005",
+      "league": "Div 1, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Girondins Bordeaux (Carlwhizzer) vs. Saint-Etienne (Oolancer)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Everton FC vs. Manchester City WFC",
+      "league": "FA Cup, Women ",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SS Monopoli 1966 vs. Virtus Francavilla Calcio",
+      "league": "Serie C, Group C",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Saint-Etienne (Oolancer) vs. Montpellier HSC (Quavo)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Losc Lille (Dragonborn) vs. Olympique Lyonnais (Fasqer)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Brentford FC vs. Swansea City",
+      "league": "Championship",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Strasbourg (Critic) vs. Stade Rennais (Walker)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Girondins Bordeaux (Carlwhizzer) vs. Montpellier HSC (Quavo)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Girondins Bordeaux (Carlwhizzer) vs. Stade Rennais (Walker)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Strasbourg (Critic) vs. Saint-Etienne (Oolancer)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Losc Lille (Dragonborn) vs. Olympique Marseille (Void)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Olympique Lyonnais (Fasqer) vs. AS Monaco FC (Gernaut)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Montpellier HSC (Quavo) vs. Strasbourg (Critic)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Stade Rennais (Walker) vs. Saint-Etienne (Oolancer)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Stromsgodset IF vs. Valerenga IF",
+      "league": "Eliteserien",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "BC Apollon Limassol vs. AEL Limassol BC",
+      "league": "Division A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Montpellier HSC (Quavo) vs. Stade Rennais (Walker)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Rosenborg BK vs. IK Start",
+      "league": "Eliteserien",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "S.S.D. Virtus Ciseranobergamo vs. Sporting Franciacorta",
+      "league": "Serie D, Girone B",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Saint-Etienne (Oolancer) vs. FC Girondins Bordeaux (Carlwhizzer)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Coquimbo Unido vs. Union Espanola",
+      "league": "Primera Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Olympique Lyonnais (Fasqer) vs. Losc Lille (Dragonborn)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "CD Universidad Catolica vs. Deportes La Serena",
+      "league": "Primera Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Dorchester Town vs. Truro City FC",
+      "league": "Southern Football League, Premier Division South",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Strasbourg (Critic) vs. FC Girondins Bordeaux (Carlwhizzer)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Stabaek IF vs. Viking FK",
+      "league": "Eliteserien",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "IFK Mariehamn vs. HJK Helsinki",
+      "league": "Veikkausliiga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Montpellier HSC (Quavo) vs. Saint-Etienne (Oolancer)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Sandefjord Fotball vs. SK Brann",
+      "league": "Eliteserien",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Farnborough FC vs. Walton Casuals",
+      "league": "Southern Football League, Premier Division South",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Arouca vs. FC Vizela",
+      "league": "Segunda Liga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "OGC Nice (Libra) vs. AS Monaco FC (Gernaut)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Usd Scanzorosciate Calcio vs. Asd Calcio Brusaporto",
+      "league": "Serie D, Girone B",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Swindon Supermarine vs. Hartley Wintney",
+      "league": "Southern Football League, Premier Division South",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Losc Lille (Dragonborn) vs. OGC Nice (Libra)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Kristiansund BK vs. Bodo/Glimt",
+      "league": "Eliteserien",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Olympique Lyonnais (Fasqer) vs. Olympique Marseille (Void)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Stade Rennais (Walker) vs. FC Girondins Bordeaux (Carlwhizzer)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Hurrikaani Loimaa vs. Karelian Hurmos",
+      "league": "Mestaruusliiga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Saint-Etienne (Oolancer) vs. Strasbourg (Critic)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Tennis",
+      "name": "Djere, Laslo vs. Giron, Marcos",
+      "league": "ATP Paris, France Men Singles",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Strasbourg (Critic) vs. Montpellier HSC (Quavo)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Casa Pia AC vs. FC Penafiel",
+      "league": "Segunda Liga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "AS Monaco FC (Gernaut) vs. Olympique Marseille (Void)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Forest Green Rovers vs. Leyton Orient",
+      "league": "League Two",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Saint-Etienne (Oolancer) vs. Stade Rennais (Walker)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "OGC Nice (Libra) vs. Olympique Marseille (Void)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Leixoes SC vs. Sl Benfica B",
+      "league": "Segunda Liga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CD Mafra vs. Varzim SC",
+      "league": "Segunda Liga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "AS Monaco FC (Gernaut) vs. Losc Lille (Dragonborn)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Jeonbuk Hyundai Motors SRL vs. Daegu FC SRL",
+      "league": "K-League 1 Srl",
+      "status": "Finished"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Malungs IF vs. Skovde IK",
+      "league": "HockeyEttan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Ulsan Hyundai FC SRL vs. Gwangju FC SRL",
+      "league": "K-League 1 Srl",
+      "status": "Finished"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Grums IK vs. Koping HC",
+      "league": "HockeyEttan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "BM Granollers vs. BM Huesca",
+      "league": "Liga Asobal",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Montpellier HSC (Quavo) vs. FC Girondins Bordeaux (Carlwhizzer)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Mariestads BOIS vs. Surahammar IF",
+      "league": "HockeyEttan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Stade Rennais (Walker) vs. Strasbourg (Critic)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Lindlovens IF vs. Forshaga IF",
+      "league": "HockeyEttan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Pohang Steelers SRL vs. Sangju Sangmu Phoenix SRL",
+      "league": "K-League 1 Srl",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "OGC Nice (Libra) vs. Losc Lille (Dragonborn)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Olympique Marseille (Void) vs. Losc Lille (Dragonborn)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Borlange HF vs. Eskilstuna Linden Hockey",
+      "league": "HockeyEttan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "NK Croatia Zmijavci vs. HNK Cibalia Vinkovci",
+      "league": "2. HNL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Mjondalen vs. Molde FK",
+      "league": "Eliteserien",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Asd Fanfulla vs. Desenzano Calvina",
+      "league": "Serie D, Girone B",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Ansan Volleyball Team vs. Seoul Wibee",
+      "league": "V League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Anadolu Efes SK vs. Buyukcekmece Basketbol",
+      "league": "TBSL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "1. FC Schweinfurt 05 vs. Schalke 04",
+      "league": "DFB Pokal",
+      "status": "NSY"
+    },
+    {
+      "sport": "Floorball",
+      "name": "Ronnby IBK vs. IBK Lund Elit",
+      "league": "Svenska Superligan, W",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Cagliari Calcio vs. Sampdoria Genoa",
+      "league": "Serie A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Mladost Lucani vs. FK Proleter Novi Sad",
+      "league": "Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Genoa CFC vs. AS Roma",
+      "league": "Serie A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "HC Pustertal vs. SHC Fassa Falcons",
+      "league": "Alps Hockey League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Independente PA vs. Bragantino Clube do Para PA",
+      "league": "Brasileiro Serie D",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "CV Gran Canaria vs. AD Algar Surmenor",
+      "league": "Superliga, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Timraa IK vs. Almtuna IS",
+      "league": "Allsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "HC Vita Hasten vs. Mora IK",
+      "league": "Allsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Steel Wings Linz vs. EHC Lustenau",
+      "league": "Alps Hockey League",
+      "status": "Postponed"
+    },
+    {
+      "sport": "Football",
+      "name": "Grei Kvinner Elite FK vs. IF Floeya",
+      "league": "1st Division, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SSC Napoli vs. Sassuolo Calcio",
+      "league": "Serie A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "CS Dinamo Bucuresti vs. CSM Lugoj",
+      "league": "Div 1, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Vasterviks IK vs. AIK IF",
+      "league": "Allsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Hellas Verona vs. Benevento Calcio",
+      "league": "Serie A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Spezia Calcio vs. Juventus Turin",
+      "league": "Serie A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Torino FC vs. Lazio Roma",
+      "league": "Serie A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "AS Roma vs. ACF Fiorentina",
+      "league": "Serie A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Sampdoria Genoa vs. Genoa CFC",
+      "league": "Serie A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Napredak Krusevac vs. FK Spartak Subotica",
+      "league": "Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Javor Ivanjica vs. FK Radnicki Nis",
+      "league": "Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Udinese Calcio vs. AC Milan",
+      "league": "Serie A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Radnik Surdulica vs. FK Crvena Zvezda",
+      "league": "Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Atalanta BC vs. Inter Milano",
+      "league": "Serie A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "Byaasen vs. Raelingen HK",
+      "league": "Eliteserien Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Verona SRL vs. Benevento Calcio Srl",
+      "league": "Serie A SRL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "Flint Toensberg vs. Storhamar",
+      "league": "Eliteserien Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Arsenal Dzerzhinsk vs. FC Lida",
+      "league": "Pervaya Liga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "HC Lausanne vs. HC Fribourg-Gotteron",
+      "league": "National League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Csu Galati vs. SCMU Arges Pitesti",
+      "league": "Div 1, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Sodertalje SK vs. IF Bjorkloven",
+      "league": "Allsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Gremio Esportivo Brasil vs. Sampaio Correa FC MA",
+      "league": "Brasileiro Serie B",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CF Villarreal SRL vs. Real Valladolid SRL",
+      "league": "LaLiga SRL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "AS Monaco FC (Gernaut) vs. OGC Nice (Libra)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Girondins Bordeaux (Carlwhizzer) vs. Strasbourg (Critic)",
+      "league": "France Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "DVTK Jegesmedvek vs. Dukla Michalovce",
+      "league": "Extraliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "Tertnes vs. Molde HK",
+      "league": "Eliteserien Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "AO Eleutheria Mochatou vs. Pas Giannina",
+      "league": "A1, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "West Bromwich Albion vs. Tottenham Hotspur FC",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Rugby",
+      "name": "Italy vs. England",
+      "league": "Womens Six Nations",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Leeds United vs. Leicester City FC",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Fulham FC vs. West Bromwich Albion",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Calcio Foggia vs. SSC Bari",
+      "league": "Serie C, Group C",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Manchester United FC vs. Arsenal FC",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Hertha BSC vs. VfL Wolfsburg",
+      "league": "Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Newcastle United FC vs. Everton FC",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Palmas TO vs. Brasiliense DF",
+      "league": "Brasileiro Serie D",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SC Freiburg vs. Bayer Leverkusen",
+      "league": "Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Villa Nova AC MG vs. AA Caldense MG",
+      "league": "Brasileiro Serie D",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "TSG Hoffenheim vs. Union Berlin",
+      "league": "Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Tottenham Hotspur FC vs. Brighton & Hove Albion FC",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Leicester City FC vs. Wolverhampton Wanderers FC",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Juve Stabia vs. AS Bisceglie",
+      "league": "Serie C, Group C",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Manchester City FC vs. Liverpool FC",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Tyringe SoS vs. Nybro Vikings IF",
+      "league": "HockeyEttan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Cricket",
+      "name": "Chennai Super Kings vs. Kings Xi Punjab",
+      "league": "Indian Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Tennis",
+      "name": "Cecchinato, Marco vs. Coria, Federico",
+      "league": "ATP Paris, France Men Singles",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Kalmar HC vs. Hanhals IF",
+      "league": "HockeyEttan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Cricket",
+      "name": "Sunrisers Hyderabad vs. Mumbai Indians",
+      "league": "Indian Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "IF Troja-Ljungby vs. Boraas HC",
+      "league": "HockeyEttan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Lion City Sailors FC vs. Young Lions FC",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Cricket",
+      "name": "Kolkata Knight Riders vs. Rajasthan Royals",
+      "league": "Indian Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Halmstad Hammers vs. Morrum Gois IK",
+      "league": "HockeyEttan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Tanjong Pagar United FC vs. Hougang United FC",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Aston Villa FC vs. Southampton FC",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "JHC Atlant Moscow Oblast vs. HC Taifun",
+      "league": "MHL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Krasnaya Armiya vs. Sahalinskie Akuly",
+      "league": "MHL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Sloga Doboj vs. FK Rudar Prijedor",
+      "league": "Prva Liga, Rep of Srpska",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Kozara Gradiska vs. FK Sloboda Novi Grad",
+      "league": "Prva Liga, Rep of Srpska",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Diriangen FC vs. CD Junior de Managua",
+      "league": "Primera Division",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Valletta FC vs. Senglea Athletic",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Tennis",
+      "name": "Davidovich Fokina, Alejandro vs. Caruso, Salvatore",
+      "league": "ATP Paris, France Men Singles",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Toronto FC vs. Inter Miami CF",
+      "league": "Major League Soccer",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Antalyaspor SRL vs. Fenerbahce SRL",
+      "league": "Turkey Super Lig SRL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Sporting Kansas City vs. Minnesota United FC",
+      "league": "Major League Soccer",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Portland Timbers vs. Vancouver Whitecaps FC",
+      "league": "Major League Soccer",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Colorado Rapids vs. Seattle Sounders",
+      "league": "Major League Soccer",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Thunders vs. Arrows",
+      "league": "V League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Atlanta United FC vs. FC Cincinnati",
+      "league": "Major League Soccer",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Columbus Crew vs. Philadelphia Union",
+      "league": "Major League Soccer",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "New England Revolution vs. DC United",
+      "league": "Major League Soccer",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Montreal Impact vs. Orlando City SC",
+      "league": "Major League Soccer",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Gaziantep Basketbol vs. OGM Ormanspor",
+      "league": "TBSL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Tennis",
+      "name": "Fucsovics, Marton vs. Pospisil, Vasek",
+      "league": "ATP Paris, France Men Singles",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Turk Telekom vs. Pinar Karsiyaka",
+      "league": "TBSL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Fethiye Belediye vs. Besiktas JK",
+      "league": "TBSL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "Haslum HK vs. Sandefjord Haandball",
+      "league": "Eliteserien",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "San Jose Earthquakes vs. Los Angeles FC",
+      "league": "Major League Soccer",
+      "status": "PossiblyCancelled"
+    },
+    {
+      "sport": "Football",
+      "name": "Besiktas JK SRL vs. Malatyaspor SRL",
+      "league": "Turkey Super Lig SRL",
+      "status": "inprogress"
+    },
+    {
+      "sport": "Handball",
+      "name": "Drammen HK vs. Elverum Handball",
+      "league": "Eliteserien",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Los Angeles Galaxy vs. Real Salt Lake",
+      "league": "Major League Soccer",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Konyaspor KIF SRL vs. Istanbul Basaksehir FK SRL",
+      "league": "Turkey Super Lig SRL",
+      "status": "inprogress"
+    },
+    {
+      "sport": "Football",
+      "name": "New York City FC vs. New York Red Bulls",
+      "league": "Major League Soccer",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Caykur Rizespor SRL vs. Kayserispor SRL",
+      "league": "Turkey Super Lig SRL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Phoenix Suns (Dexter) vs. Minnesota Timberwolves (Ever)",
+      "league": "NBA Cyber - Western Conference",
+      "status": "Finished"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Avtomobilist Yekaterinburg vs. HC Dinamo Riga",
+      "league": "KHL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Metallurg Magnitogorsk vs. HC Traktor Chelyabinsk",
+      "league": "KHL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Bangu AC RJ vs. Nacional AC PR",
+      "league": "Brasileiro Serie D",
+      "status": "NSY"
+    },
+    {
+      "sport": "Cricket",
+      "name": "Hobart Hurricanes vs. Melbourne Stars",
+      "league": "Big Bash League, Women",
+      "status": "Finished"
+    },
+    {
+      "sport": "Tennis",
+      "name": "Basilashvili, Nikoloz vs. Struff, Jan-Lennard",
+      "league": "ATP Paris, France Men Singles",
+      "status": "NSY"
+    },
+    {
+      "sport": "Cricket",
+      "name": "Melbourne Renegades vs. Sydney Sixers",
+      "league": "Big Bash League, Women",
+      "status": "Finished"
+    },
+    {
+      "sport": "Tennis",
+      "name": "Kecmanovic, Miomir vs. Millman, John",
+      "league": "ATP Paris, France Men Singles",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Neftekhimik Nizhnekamsk vs. Sibir Novosibirsk",
+      "league": "KHL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Cricket",
+      "name": "Sydney Thunder vs. Brisbane Heat",
+      "league": "Big Bash League, Women",
+      "status": "Finished"
+    },
+    {
+      "sport": "Cricket",
+      "name": "Adelaide Strikers vs. Perth Scorchers",
+      "league": "Big Bash League, Women",
+      "status": "Cancelled"
+    },
+    {
+      "sport": "Football",
+      "name": "TSG 1899 Hoffenheim SRL vs. 1. FC Union Berlin SRL",
+      "league": "Bundesliga SRL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Tennis",
+      "name": "Carreno Busta, Pablo vs. Gaston, Hugo",
+      "league": "ATP Paris, France Men Singles",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Khimki SRL vs. FK Zenit Saint Petersburg SRL",
+      "league": "Russia Premier League SRL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Rugby",
+      "name": "Scarlets vs. Edinburgh Rugby",
+      "league": "Pro 14",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Wolfdogs Nagoya vs. Osaka Blazers Sakai",
+      "league": "V League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Tennis",
+      "name": "Auger-Aliassime, Felix vs. Cilic, Marin",
+      "league": "ATP Paris, France Men Singles",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SK Rotor Volgograd SRL vs. CSKA Moscow SRL",
+      "league": "Russia Premier League SRL",
+      "status": "inprogress"
+    },
+    {
+      "sport": "Football",
+      "name": "Nashville SC vs. Chicago Fire",
+      "league": "Major League Soccer",
+      "status": "Finished"
+    },
+    {
+      "sport": "Tennis",
+      "name": "Sonego, Lorenzo vs. Bublik, Alexander",
+      "league": "ATP Paris, France Men Singles",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Tambov SRL vs. FK Dinamo Moscow SRL",
+      "league": "Russia Premier League SRL",
+      "status": "inprogress"
+    },
+    {
+      "sport": "Tennis",
+      "name": "Gasquet, Richard vs. Fritz, Taylor",
+      "league": "ATP Paris, France Men Singles",
+      "status": "NSY"
+    },
+    {
+      "sport": "Tennis",
+      "name": "Wawrinka, Stan vs. Evans, Daniel",
+      "league": "ATP Paris, France Men Singles",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Oklahoma City (Miller) vs. Utah Jazz (Jiggling)",
+      "league": "NBA Cyber - Western Conference",
+      "status": "Finished"
+    },
+    {
+      "sport": "Rugby",
+      "name": "Dragons vs. Munster",
+      "league": "Pro 14",
+      "status": "NSY"
+    },
+    {
+      "sport": "Tennis",
+      "name": "Simon, Gilles vs. Paul, Tommy",
+      "league": "ATP Paris, France Men Singles",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "RB Leipzig (Stdm) vs. Borussia Dortmund (Skripp)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Tennis",
+      "name": "Humbert, Ugo vs. Ruud, Casper",
+      "league": "ATP Paris, France Men Singles",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Bayer 04 Leverkusen (Alback) vs. Borussia Dortmund (Skripp)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FK UFA SRL vs. FK Ural Yekaterinburg SRL",
+      "league": "Russia Premier League SRL",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Werder Bremen vs. 1. FC Cologne",
+      "league": "Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Augsburg vs. Hertha BSC",
+      "league": "Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Bayer Leverkusen vs. Borussia Monchengladbach",
+      "league": "Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Paris Saint-Germain FC vs. FC Fleury",
+      "league": "Division 1 Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CD Leganes vs. CD Mirandes",
+      "league": "LaLiga 2",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Mjallby AIF vs. Ostersunds FK",
+      "league": "Allsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Falkenbergs FF vs. Djurgardens IF",
+      "league": "Allsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CF Fuenlabrada vs. Tenerife CD",
+      "league": "LaLiga 2",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "IK Sirius FK vs. Kalmar FF",
+      "league": "Allsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "AS Trencin vs. MFK Ruzomberok",
+      "league": "Superliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SD Ponferradina vs. CE Sabadell FC",
+      "league": "LaLiga 2",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Orebro SK vs. Kalmar FF",
+      "league": "Allsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Real Zaragoza vs. RCD Mallorca",
+      "league": "LaLiga 2",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SK Slovan Bratislava vs. FC Nitra",
+      "league": "Superliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Juventus (Ben) vs. Panathinaikos (Pjo)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CD Lugo vs. Rayo Vallecano",
+      "league": "LaLiga 2",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Malmo FF vs. IK Sirius FK",
+      "league": "Allsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Brandenburger SC South 05 vs. Charlottenburger FC Hertha 06",
+      "league": "Oberliga NOFV North",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "PF Schio vs. Virtus Pallacanestro Bologna",
+      "league": "A1 Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SFC Stern 1900 vs. 1. FC Lok Stendal",
+      "league": "Oberliga NOFV North",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Hammarby IF vs. BK Hacken",
+      "league": "Allsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "IF Elfsborg vs. IFK Norrkoping FK",
+      "league": "Allsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "IFK Goteborg vs. Orebro SK",
+      "league": "Allsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "KK Cedevita Olimpija vs. KK Buducnost Voli",
+      "league": "Liga ABA",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Leeds United Reserve vs. Crystal Palace FC",
+      "league": "Premier League 2",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Bks Bielsko-Biala vs. KS Rzeszow",
+      "league": "Liga Siatkowki, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Rostock Seawolves vs. Nuremberg Falcons BC",
+      "league": "Pro A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Manglerud/Star vs. Stjernen Hockey",
+      "league": "Eliteserien",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Fenerbahce Istanbul (Mitchef) vs. CF Valencia (Billiot)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Djurgardens IF vs. AIK",
+      "league": "Allsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SSC Napoli (Gosas) vs. Lokomotiv Moscow (Burton)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Varbergs BoIS FC vs. Hammarby IF",
+      "league": "Allsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Besiktas (Vasm) vs. PAOK (Andre)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Panathinaikos (Pjo) vs. Tottenham Hotspur (Kot)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "UD Almeria vs. Girona FC",
+      "league": "LaLiga 2",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CF Valencia (Billiot) vs. Panathinaikos (Pjo)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Tottenham Hotspur (Kot) vs. Besiktas (Vasm)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Lokomotiv Moscow (Burton) vs. Fenerbahce Istanbul (Mitchef)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Lillestrom SK vs. Tromsoe IL",
+      "league": "1st Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Tottenham Hotspur (Kot) vs. Fenerbahce Istanbul (Mitchef)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Zeleznicar Pancevo vs. FK Radnicki Sremska Mitrovica",
+      "league": "Prva Liga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "PAOK (Andre) vs. Panathinaikos (Pjo)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "CSKA Moscow (Pera) vs. FC Barcelona (Ak)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Jerv vs. KFUM Oslo",
+      "league": "1st Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Lokomotiv Moscow (Burton) vs. PSV Eindhoven (Gorilla)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "AC Milan (Val) vs. Leipzig (Panica)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Kongsvinger IL Fotball vs. Raufoss IL",
+      "league": "1st Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CF Valencia (Billiot) vs. SSC Napoli (Gosas)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Borussia Dortmund (Teok) vs. Ajax Amsterdam (Cobra4)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Oeygarden FK vs. Ranheim",
+      "league": "1st Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Chelsea FC (Tommy) vs. Juventus (Ben)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Ullensaker/Kisa vs. Sandnes Ulf",
+      "league": "1st Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Atletico Madrid (Captainx) vs. Bayern München (Moebius)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Inter Milano (Crysis) vs. Bayer 04 Leverkusen (Pg)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Gfk Jagodina vs. FK Graficar Beograd",
+      "league": "Prva Liga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Stjordals/Blink vs. Grorud IL",
+      "league": "1st Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "PSV Eindhoven (Gorilla) vs. Atletico Madrid (Captainx)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Hamarkameratene vs. Aasane Fotball",
+      "league": "1st Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Bayern München (Moebius) vs. Chelsea FC (Tommy)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Ajax Amsterdam (Cobra4) vs. AC Milan (Val)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Atletico Madrid (Captainx) vs. Chelsea FC (Tommy)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Bayer 04 Leverkusen (Pg) vs. AC Milan (Val)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Lokomotiv Moscow (Burton) vs. Juventus (Ben)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Porto (Zeus) vs. Leipzig (Panica)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Bayern München (Moebius) vs. Lokomotiv Moscow (Burton)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Ajax Amsterdam (Cobra4) vs. FC Porto (Zeus)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Henan Jianye vs. Guangzhou R&F FC",
+      "league": "Chinese Super League",
+      "status": "inprogress"
+    },
+    {
+      "sport": "Football",
+      "name": "Juventus (Ben) vs. Atletico Madrid (Captainx)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "BIK Karlskoga vs. MODO Hockey",
+      "league": "Allsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SSC Napoli (Gosas) vs. Tottenham Hotspur (Kot)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Handball",
+      "name": "HBC St Amand Les Eaux Porte Du Hainaut vs. Toulon Saint Cyr Var Handball",
+      "league": "LFH Division 1, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "PSV Eindhoven (Gorilla) vs. CF Valencia (Billiot)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Panathinaikos (Pjo) vs. Besiktas (Vasm)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Porto (Zeus) vs. Sporting Lissabon (Rafa)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Fenerbahce Istanbul (Mitchef) vs. PAOK (Andre)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Kiisto vs. JIPPO",
+      "league": "Kakkonen, Group C",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "PSV Eindhoven (Gorilla) vs. PAOK (Andre)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Olimpia Milano vs. Aquila Basket Trento",
+      "league": "Serie A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Baerums Verk Defenders vs. Troemso Storm",
+      "league": "BLNO",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Aris Thessaloniki vs. Asteras Tripolis",
+      "league": "Super League 1",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Millonarios FC vs. Atletico Nacional Medellin",
+      "league": "Primera A, Apertura",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Bayern München (Moebius) vs. Tottenham Hotspur (Kot)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Ajax Amsterdam (Cobra4) vs. Trabzonspor (Ang)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Reyer Venezia vs. Virtus Bologna",
+      "league": "Serie A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Fenerbahce Istanbul (Mitchef) vs. Panathinaikos (Pjo)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Basketball",
+      "name": "New Basket Brindisi vs. Fortitudo Bologna 103",
+      "league": "Serie A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SSC Napoli (Gosas) vs. Besiktas (Vasm)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Reggiana vs. Universo Treviso Basket",
+      "league": "Serie A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CD La Equidad vs. Rionegro Aguilas",
+      "league": "Primera A, Apertura",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "PAOK (Andre) vs. SSC Napoli (Gosas)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "CSKA Moscow (Pera) vs. Ajax Amsterdam (Cobra4)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Cucuta Deportivo FC vs. CD Junior FC",
+      "league": "Primera A, Apertura",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Besiktas (Vasm) vs. Fenerbahce Istanbul (Mitchef)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "CF Valencia (Billiot) vs. Bayern München (Moebius)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Borussia Dortmund (Teok) vs. Bayer 04 Leverkusen (Pg)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Olympic FC Brisbane vs. Sunshine Coast Wanderers",
+      "league": "NPL, Queensland",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Jakobstads Bollklubb vs. VIFK",
+      "league": "Kakkonen, Group C",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Tottenham Hotspur (Kot) vs. PSV Eindhoven (Gorilla)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "AC Milan (Val) vs. FC Inter Milano (Crysis)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "US Victoria Libertas vs. Cremona Basket",
+      "league": "Serie A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Ammerud Basket vs. Fyllingen BK",
+      "league": "BLNO",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Independiente Medellin vs. CD Once Caldas",
+      "league": "Primera A, Apertura",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Besiktas (Vasm) vs. PSV Eindhoven (Gorilla)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Stroemmen IF vs. Sogndal IL",
+      "league": "1st Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "AD Cali vs. CD Tolima",
+      "league": "Primera A, Apertura",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Panathinaikos (Pjo) vs. SSC Napoli (Gosas)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Tottenham Hotspur (Kot) vs. Juventus (Ben)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Porto (Zeus) vs. FC Inter Milano (Crysis)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "PAOK (Andre) vs. Bayern München (Moebius)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "CSKA Moscow (Pera) vs. Bayer 04 Leverkusen (Pg)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Lokomotiv Moscow (Burton) vs. Atletico Madrid (Captainx)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "CD Once Caldas vs. AD Cali",
+      "league": "Primera A, Apertura",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CF Valencia (Billiot) vs. Chelsea FC (Tommy)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Borussia Dortmund (Teok) vs. AC Milan (Val)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Juventus (Ben) vs. CF Valencia (Billiot)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Inter Milano (Crysis) vs. Borussia Dortmund (Teok)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "AEK Athens vs. OFI Crete",
+      "league": "Super League 1",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "AD Pasto vs. Independiente Santa Fe",
+      "league": "Primera A, Apertura",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Chelsea FC (Tommy) vs. Lokomotiv Moscow (Burton)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Bayer 04 Leverkusen (Pg) vs. FC Porto (Zeus)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Club Brugge (Walker) vs. Dynamo Kyiv (Critic)",
+      "league": "Cyber Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Atalanta BC (Libra) vs. Ajax Amsterdam (Dragonborn)",
+      "league": "Cyber Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Porto (Void) vs. Ajax Amsterdam (Dragonborn)",
+      "league": "Cyber Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Midtjylland (Oolancer) vs. Dynamo Kyiv (Critic)",
+      "league": "Cyber Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Spartaks Jurmala vs. FK Tukums 2000/TSS",
+      "league": "Virsliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Ingulets vs. FC Zorya Lugansk",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Club Brugge (Walker) vs. Olympiacos Piraeus (CarlWhizzer)",
+      "league": "Cyber Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Jelgava vs. FK Ventspils",
+      "league": "Virsliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Montpellier Volley UC vs. Stade Poitevin Poitiers",
+      "league": "Ligue A",
+      "status": "Postponed"
+    },
+    {
+      "sport": "Football",
+      "name": "Dynamo Kyiv (Critic) vs. FC Salzburg (Quavo)",
+      "league": "Cyber Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Lviv vs. FC Vorskla Poltava",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "Skara HF vs. Boden Handball IF",
+      "league": "Elitserien Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Minaj vs. FC Rukh Lviv",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Frosinone Calcio vs. US Cremonese",
+      "league": "Serie B",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "Lugi HF vs. Skovde HF",
+      "league": "Elitserien Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Porto (Void) vs. RB Leipzig (Fasqer)",
+      "league": "Cyber Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Perez Zeledon vs. Limon FC",
+      "league": "Primera Division, Apertura",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Dhofar SCSC vs. AL Nassr FC",
+      "league": "Omani League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "CV Melilla vs. CV Eivissa",
+      "league": "Superliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Real Betis Balompie vs. Elche CF",
+      "league": "LaLiga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Kristianstads DFF vs. Vittsjo Gik",
+      "league": "Damallsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Al Seeb vs. Saham",
+      "league": "Omani League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Tampa Bay Rowdies vs. Phoenix Rising FC",
+      "league": "USL Championship",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Granada CF vs. Levante UD",
+      "league": "LaLiga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "BFC Daugavpils vs. FK Rigas Futbola Skola",
+      "league": "Virsliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SC Austria Lustenau vs. FC Dornbirn 1913",
+      "league": "2. Liga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "RC Celta de Vigo vs. Real Sociedad",
+      "league": "LaLiga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Villarreal CF vs. Real Valladolid",
+      "league": "LaLiga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Atletico Madrid vs. Cadiz CF",
+      "league": "LaLiga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Valencia CF vs. Getafe CF",
+      "league": "LaLiga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Liaoning Flying Leopards vs. Qingdao Eagles",
+      "league": "CBA",
+      "status": "NSY"
+    },
+    {
+      "sport": "Tennis",
+      "name": "Gombos, Norbert vs. Albot, Radu",
+      "league": "ATP Paris, France Men Singles",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SG USC Landhaus/Austria Vienna vs. SV Horn",
+      "league": "Bundesliga, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Sudburgenland vs. SKN St. Polten",
+      "league": "Bundesliga, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "KK Cibona vs. KK Primorska",
+      "league": "Liga ABA",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "River PI vs. AA Altos",
+      "league": "Brasileiro Serie D",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Solhan Spor vs. Fenerbahce SK Istanbul",
+      "league": "First Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "FC Barcelona vs. CB 1939 Canarias",
+      "league": "Liga ACB",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "CB Gran Canaria vs. Baskonia Vitoria-Gasteiz",
+      "league": "Liga ACB",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Galatasaray Istanbul vs. Spor Toto SK Ankara",
+      "league": "First Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Haliliye Bld vs. Inegol Belediyespor",
+      "league": "First Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "BC Andorra vs. Basket Zaragoza 2002",
+      "league": "Liga ACB",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "USE Rosa Empoli vs. Le Mura Lucca",
+      "league": "A1 Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Club Joventut Badalona vs. CB Estudiantes",
+      "league": "Liga ACB",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SSV Jahn Regensburg vs. VfL 1899 Osnabruck",
+      "league": "2nd Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Valencia Basket vs. Real Madrid",
+      "league": "Liga ACB",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Zhejiang Golden Bulls vs. Beijing Ducks",
+      "league": "CBA",
+      "status": "inprogress"
+    },
+    {
+      "sport": "Football",
+      "name": "Holstein Kiel vs. Hamburger SV",
+      "league": "2nd Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "PSV Eindhoven (Gorilla) vs. SSC Napoli (Gosas)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Beijing Royal Fighters vs. Jiangsu Dragons",
+      "league": "CBA",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Bayern München (Moebius) vs. Fenerbahce Istanbul (Mitchef)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Guangzhou Loong Lions vs. Nanjing Monkey Kings",
+      "league": "CBA",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Panathinaikos (Pjo) vs. Bayern München (Moebius)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Shenzhen Aviators vs. Shanghai Sharks",
+      "league": "CBA",
+      "status": "inprogress"
+    },
+    {
+      "sport": "Basketball",
+      "name": "CB Malaga vs. Obradoiro CAB",
+      "league": "Liga ACB",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Fenerbahce Istanbul (Mitchef) vs. PSV Eindhoven (Gorilla)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "AS Roma vs. Juventus FC",
+      "league": "Campionato Primavera 1",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SV Darmstadt 1898 vs. SC Paderborn",
+      "league": "2nd Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "PAOK (Andre) vs. Chelsea FC (Tommy)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Celtic Glasgow vs. Aberdeen FC",
+      "league": "Scottish Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Sichuan Blue Whales vs. Zhejiang Guangsha Lions",
+      "league": "CBA",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Besiktas (Vasm) vs. Juventus (Ben)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Wurzburger Kickers vs. VfL Bochum",
+      "league": "2nd Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CF Valencia (Billiot) vs. Lokomotiv Moscow (Burton)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Tottenham Hotspur (Kot) vs. Atletico Madrid (Captainx)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CSKA Moscow (Pera) vs. Borussia Dortmund (Teok)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Trabzonspor (Ang) vs. AC Milan (Val)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "AC Savoia 1908 vs. Arzachena Costa Smeralda Calcio",
+      "league": "Serie D, Girone G",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Glasgow Rangers (Chris X) vs. FC Inter Milano (Crysis)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Team Nuova Florida vs. SS Formia Calcio Asd",
+      "league": "Serie D, Girone G",
+      "status": "NSY"
+    },
+    {
+      "sport": "Futsal",
+      "name": "MFK Tyumen vs. Korporatsiya Asi",
+      "league": "Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Inter Milano (Crysis) vs. Trabzonspor (Ang)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "AC Milan (Val) vs. CSKA Moscow (Pera)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Sparta Rotterdam vs. SC Heerenveen",
+      "league": "Eredivisie",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Borussia Dortmund (Teok) vs. FC Porto (Zeus)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Emmen vs. Feyenoord Rotterdam",
+      "league": "Eredivisie",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Surkhon Termez vs. FC Andijon",
+      "league": "PFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Ilves 2 vs. Klubi 04",
+      "league": "Kakkonen, Group B",
+      "status": "NSY"
+    },
+    {
+      "sport": "Field hockey",
+      "name": "Belgium vs. Great Britain",
+      "league": "Pro League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Tennis",
+      "name": "Delbonis, Federico vs. Hanfmann, Yannick",
+      "league": "ATP Paris, France Men Singles",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Imabari vs. Gamba Osaka U23",
+      "league": "J.League 3",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Artvin Hopaspor vs. Manisaspor",
+      "league": "3. Lig, Group 1",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Chayka Peschanokopskoye vs. FC Tom Tomsk",
+      "league": "Football National League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Orenburg vs. FC Chertanovo Moscow",
+      "league": "Football National League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Veles Moscow vs. FC Dynamo Bryansk",
+      "league": "Football National League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Konyaspor Club vs. Istanbul Basaksehir FK",
+      "league": "Super Lig",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "HC Dunarea Braila vs. CS Rapid Bucuresti",
+      "league": "Liga Nationala, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Ska-Khabarovsk vs. FC Irtysh Omsk",
+      "league": "Football National League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Krasnodar-2 vs. FC Alania Vladikavkaz",
+      "league": "Football National League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Mac Ujbuda vs. Fehervari Titanok",
+      "league": "Erste Liga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Baltika Kaliningrad vs. FC Neftekhimik Nizhnekamsk",
+      "league": "Football National League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Debreceni Egyetem AC vs. UJPEST Budapest",
+      "league": "Erste Liga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Torpedo Moscow vs. FC Krylia Sovetov Samara",
+      "league": "Football National League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Turkgucu Munchen vs. FC Ingolstadt 04",
+      "league": "3rd Liga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Akron Tolyatti vs. Tekstilshchik Ivanovo",
+      "league": "Football National League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "SCM Craiova vs. SCM Gloria Buzau",
+      "league": "Liga Nationala, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Hoenefoss BK vs. Medkila IL",
+      "league": "1st Division, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Fakel Voronezh vs. FC Spartak-2 Moscow",
+      "league": "Football National League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Shinnik Yaroslavl vs. FC Volgar Astrakhan",
+      "league": "Football National League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Asane Fotball Damer vs. Oevrevoll Hosle IL",
+      "league": "1st Division, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "CS Gloria 2018 Bistrita-Nasaud vs. CSM Slatina",
+      "league": "Liga Nationala, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "Wat Atzgersdorf vs. Uhc Tulln",
+      "league": "HLA 2",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "SCM Ramnicu Valcea vs. CS Minaur Baia Mare",
+      "league": "Liga Nationala, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "AS Livorno vs. US Pergolettese 1932",
+      "league": "Serie C, Group A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Heracles Almelo vs. FC Utrecht",
+      "league": "Eredivisie",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "PSV Eindhoven vs. ADO Den Haag",
+      "league": "Eredivisie",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Piacenza Calcio vs. AC Renate",
+      "league": "Serie C, Group A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "AZ Alkmaar vs. RKC Waalwijk",
+      "league": "Eredivisie",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "US Citta Di Pontedera vs. US Grosseto",
+      "league": "Serie C, Group A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "US Albinoleffe vs. US Pistoiese 1921",
+      "league": "Serie C, Group A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Fulham FC Srl vs. West Bromwich Albion Srl",
+      "league": "Premier League SRL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Carrarese Calcio 1908 vs. US Alessandria Calcio 1912",
+      "league": "Serie C, Group A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Leeds United Srl vs. Leicester City SRL",
+      "league": "Premier League SRL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Juventus FC vs. Calcio Lecco 1912",
+      "league": "Serie C, Group A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Besiktas JK vs. Yeni Malatyaspor",
+      "league": "Super Lig",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Ssd Pro Sesto vs. Novara Calcio",
+      "league": "Serie C, Group A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Caykur Rizespor vs. Kayserispor",
+      "league": "Super Lig",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Bodens BK vs. Skiljebo SK",
+      "league": "Division 2, Promotion Playoffs",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Yenisey Krasnoyarsk vs. FC Nizhny Novgorod",
+      "league": "Football National League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SV Wehen Wiesbaden vs. FC Bayern Munich II",
+      "league": "3rd Liga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Antalyaspor AS vs. Fenerbahce",
+      "league": "Super Lig",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Leipzig (Panica) vs. Bayer 04 Leverkusen (Pg)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "AC Milan (Val) vs. FC Porto (Zeus)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Ajax Amsterdam (Cobra4) vs. FC Inter Milano (Crysis)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Porto (Zeus) vs. Borussia Dortmund (Teok)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Chelsea FC (Tommy) vs. Tottenham Hotspur (Kot)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Bayer 04 Leverkusen (Pg) vs. Trabzonspor (Ang)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Atletico Madrid (Captainx) vs. CF Valencia (Billiot)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Inter Milano (Crysis) vs. CSKA Moscow (Pera)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Bayern München (Moebius) vs. Besiktas (Vasm)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Ajax Amsterdam (Cobra4) vs. Manchester City FC (Poli)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Yokohama F Marinos vs. Kashima Antlers",
+      "league": "J.League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Juventus (Ben) vs. PAOK (Andre)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "SSC Napoli (Gosas) vs. Fenerbahce Istanbul (Mitchef)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "PSV Eindhoven (Gorilla) vs. Panathinaikos (Pjo)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Borussia Dortmund (Teok) vs. Manchester City FC (Poli)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "AC Milan (Val) vs. FC Barcelona (Ak)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Bayer 04 Leverkusen (Pg) vs. Manchester City FC (Poli)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CSKA Moscow (Pera) vs. Trabzonspor (Ang)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Porto (Zeus) vs. Glasgow Rangers (Chris X)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Ajax Amsterdam (Cobra4) vs. Sporting Lissabon (Rafa)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Manchester City FC (Poli) vs. FC Porto (Zeus)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Glasgow Rangers (Chris X) vs. CSKA Moscow (Pera)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Sporting Lissabon (Rafa) vs. AC Milan (Val)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "CSKA Moscow (Pera) vs. AC Milan (Val)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Barcelona (Ak) vs. Borussia Dortmund (Teok)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Glasgow Rangers (Chris X) vs. Borussia Dortmund (Teok)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Trabzonspor (Ang) vs. FC Porto (Zeus)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Barcelona (Ak) vs. FC Inter Milano (Crysis)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Manchester City FC (Poli) vs. AC Milan (Val)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Ajax Amsterdam (Cobra4) vs. Leipzig (Panica)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Inter Milano (Crysis) vs. Glasgow Rangers (Chris X)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "Tth Holstebro vs. Silkeborg Voel KFUM",
+      "league": "Damehandboldligaen",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Sporting Lissabon (Rafa) vs. Bayer 04 Leverkusen (Pg)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "CSKA Moscow (Pera) vs. FC Porto (Zeus)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Inter Milano (Crysis) vs. Sporting Lissabon (Rafa)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Borussia Dortmund (Teok) vs. CSKA Moscow (Pera)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "NK Lokomotiva Zagreb vs. GNK Dinamo Zagreb",
+      "league": "1. HNL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Bayer 04 Leverkusen (Pg) vs. Ajax Amsterdam (Cobra4)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "AC Milan (Val) vs. Trabzonspor (Ang)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "HNK Sibenik vs. HNK Rijeka",
+      "league": "1. HNL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Sporting Lissabon (Rafa) vs. Ajax Amsterdam (Cobra4)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Porto (Zeus) vs. Trabzonspor (Ang)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Barcelona (Ak) vs. Leipzig (Panica)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Bayer 04 Leverkusen (Pg) vs. FC Barcelona (Ak)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "AC Milan (Val) vs. Manchester City FC (Poli)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Leipzig (Panica) vs. Sporting Lissabon (Rafa)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Borussia Dortmund (Teok) vs. Glasgow Rangers (Chris X)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "AC Milan (Val) vs. Glasgow Rangers (Chris X)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Bayer 04 Leverkusen (Pg) vs. Sporting Lissabon (Rafa)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Inter Milano (Crysis) vs. Manchester City FC (Poli)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Inter Milano (Crysis) vs. FC Barcelona (Ak)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Porto (Zeus) vs. CSKA Moscow (Pera)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Borussia Dortmund (Teok) vs. Trabzonspor (Ang)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Handball",
+      "name": "Alstermo IF vs. Torslanda HK",
+      "league": "Allsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "KF Llapi vs. KF Drita",
+      "league": "Superliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Inter Milano (Crysis) vs. Ajax Amsterdam (Cobra4)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Bayer 04 Leverkusen (Pg) vs. Leipzig (Panica)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Ajax Amsterdam (Cobra4) vs. Bayer 04 Leverkusen (Pg)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "AC Milan (Val) vs. Sporting Lissabon (Rafa)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Manchester City FC (Poli) vs. Bayer 04 Leverkusen (Pg)",
+      "league": "GT G-26 League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Atherton Collieries AFC vs. City Of Liverpool",
+      "league": "FA Trophy, Qualification",
+      "status": "NSY"
+    },
+    {
+      "sport": "Tennis",
+      "name": "Sonego, Lorenzo vs. Rublev, Andrey",
+      "league": "ATP Vienna, Austria Men Singles",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CSKA Moscow (Pera) vs. Glasgow Rangers (Chris X)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Borussia Dortmund (Teok) vs. FC Barcelona (Ak)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "KF Drenica Skenderaj vs. FC Prishtina",
+      "league": "Superliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Porto (Zeus) vs. Manchester City FC (Poli)",
+      "league": "GT G-26 League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Queenseis vs. Hisamitsu Springs",
+      "league": "V League, Women",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Saint Patrick´s Athletic FC vs. Dundalk FC",
+      "league": "Premier Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Okayama Seagulls vs. Hitachi Rivale",
+      "league": "V League, Women",
+      "status": "Finished"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Marvelous vs. Saitama Ageo Medics",
+      "league": "V League, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Deportivo Maldonado vs. Club Nacional de Football",
+      "league": "Primera Division",
+      "status": "Finished"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Himeji Victorina VC vs. Red Rockets",
+      "league": "V League, Women",
+      "status": "Finished"
+    },
+    {
+      "sport": "Floorball",
+      "name": "Fredrikstad IBK vs. Sarpsborg SK",
+      "league": "Eliteserien",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Asd Sangiovannese 1927 vs. ACN Siena 1904",
+      "league": "Serie D, Girone E",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Petrocub Hincesti vs. FC Sheriff Tiraspol",
+      "league": "Divizia Nationala",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Tiferno Lerchi vs. AS Ostia Mare Lido Calcio",
+      "league": "Serie D, Girone E",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Defensa y Justicia vs. Colon de Santa Fe",
+      "league": "Copa de la Superliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CA Central Cordoba SE vs. CA Independiente",
+      "league": "Copa de la Superliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Racing Club Avellaneda vs. Atletico Tucuman",
+      "league": "Copa de la Superliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "Kungalvs HK vs. Tyreso IF",
+      "league": "Allsvenskan",
+      "status": "PossiblyCancelled"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Imoco Volley Conegliano vs. Cuneo Granda Volley",
+      "league": "Serie A1 Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "Vinslovs HK vs. Hif Karlskrona",
+      "league": "Allsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Dacia Buiucani vs. FC Sfintul Gheorghe",
+      "league": "Divizia Nationala",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Nordsjaelland vs. Koldingq",
+      "league": "Elitedivisionen, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Pumas UNAM vs. Guadalajara Chivas",
+      "league": "Primera Division, Apertura",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Atlas FC vs. Puebla FC",
+      "league": "Primera Division, Apertura",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "HB Koege vs. FC Thy - Thistedq",
+      "league": "Elitedivisionen, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Valerenga IF vs. Lillestrom SK Kvinner",
+      "league": "Toppserien, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Fermana FC vs. Carpi FC 1909",
+      "league": "Serie C, Group B",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Rosenborg BK Kvinner vs. Avaldsnes IL",
+      "league": "Toppserien, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Legnago Salus SSD vs. Feralpisalo",
+      "league": "Serie C, Group B",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Beziers Volley vs. France Avenir 2024",
+      "league": "Ligue A Women",
+      "status": "Postponed"
+    },
+    {
+      "sport": "Football",
+      "name": "Plymouth Argyle vs. Swindon Town",
+      "league": "League One",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "St Johnstone FC vs. Kilmarnock FC",
+      "league": "Premiership",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Real CD Espana vs. CD Marathon",
+      "league": "Liga Nacional. Apertura",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Atletico Madrid vs. Cdef Logrono",
+      "league": "Primera Division Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Swans Gmunden vs. Oberwart Gunners",
+      "league": "Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Tranaas AIF vs. Karlskrona HK",
+      "league": "HockeyEttan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CD Honduras Progreso vs. Platense FC",
+      "league": "Liga Nacional. Apertura",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Motherwell FC vs. Celtic Glasgow",
+      "league": "Premiership",
+      "status": "NSY"
+    },
+    {
+      "sport": "Rugby",
+      "name": "Queensland Maroons vs. New South Wales",
+      "league": "State of Origin",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Sevilla FC vs. Sporting de Huelva",
+      "league": "Primera Division Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Lyevshyn, Vitaliy vs. Yefimov, Viktor",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Kilmarnock FC vs. Glasgow Rangers",
+      "league": "Premiership",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Castelnuovo Vomano vs. ASD Montegiorgio Calcio",
+      "league": "Serie D, Girone F",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FCI Levadia Tallinn vs. FC Flora Tallinn",
+      "league": "Premium Liiga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CF America vs. Tigres UANL",
+      "league": "Primera Division, Apertura",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CF Monterrey vs. Cruz Azul",
+      "league": "Primera Division, Apertura",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Matese vs. Gsd Castelfidardo Calcio",
+      "league": "Serie D, Girone F",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Club Leon vs. Club Santos Laguna",
+      "league": "Primera Division, Apertura",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Rayo Vallecano vs. UDG Tenerife",
+      "league": "Primera Division Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Bnei Yehuda Tel Aviv FC vs. FC Ashdod",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "CSKA Moscow vs. Enisey Krasnoyarsk",
+      "league": "United League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Aylesbury Utd vs. Margate FC",
+      "league": "FA Trophy, Qualification",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SC Freiburg II vs. FC Bayern Alzenau 1920",
+      "league": "Regionalliga Southwest",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Pryshchepa, Yevhen vs. Limonov, Anton",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Jong PSV Eindhoven vs. SC Cambuur",
+      "league": "Eerste Divisie",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "TOP Volley Cisterna vs. Trentino Volley",
+      "league": "SuperLega",
+      "status": "NSY"
+    },
+    {
+      "sport": "Rugby",
+      "name": "Section Paloise vs. La Rochelle",
+      "league": "Top 14",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Lyevshyn, Vitaliy vs. Pryshchepa, Yevhen",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Anyang KGC vs. Dongbu Promy",
+      "league": "KBL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Hapoel Be`er Sheva FC vs. Bnei Sakhnin FC",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Rugby",
+      "name": "Stade Francais Paris vs. Stade Toulousain",
+      "league": "Top 14",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Volokhov, Vladislav vs. Kuznetsov, Ihor",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Volendam vs. FC Eindhoven",
+      "league": "Eerste Divisie",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Shcherbak, Denys vs. Shkurupii, Aleksandr",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Lyevshyn, Vitaliy vs. Limonov, Anton",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Yefimov, Viktor vs. Pryshchepa, Yevhen",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "BC Prometey vs. Kyiv-Basket",
+      "league": "FBU Superleague",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "A.S.D. Marina Di Ragusa vs. Ssd Acireale Calcio 1946",
+      "league": "Serie D, Girone I",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Trofimov, Nikita vs. Pismenniy, Evgeniy",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Kharkivski Sokoly vs. BC Khimik Yuzhny",
+      "league": "FBU Superleague",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Santa Maria Cilento vs. Asd Roccella",
+      "league": "Serie D, Girone I",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Rende Calcio 1968 vs. Ssd Citta Di Messina",
+      "league": "Serie D, Girone I",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Borysov, Artem vs. Yarovoi, Oleksandr",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Masko, Evgeniy vs. Tsybulin, Sergey",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Boxing",
+      "name": "Santa Cruz, Leo vs. Davis, Gervonta",
+      "league": "International Matchups",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Licata vs. Dattilo Noir",
+      "league": "Serie D, Girone I",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Yefimov, Viktor vs. Limonov, Anton",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Pismenniy, Evgeniy vs. Shcherbak, Denys",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Samsung Thunders vs. Goyang Orions",
+      "league": "KBL",
+      "status": "Finished"
+    },
+    {
+      "sport": "Basketball",
+      "name": "ET Land Elephants vs. Mobis Phoebus",
+      "league": "KBL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "HC Altay-Torpedo vs. HK Arlan Kokschetau",
+      "league": "Vysshaya League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Miniailo, Yehor vs. Tuchkevych, Volodymyr",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Yarovoi, Oleksandr vs. Volokhov, Vladislav",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "LG Sakers vs. Seoul SK Knights",
+      "league": "KBL",
+      "status": "Finished"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "HC Almaty vs. Saryarka",
+      "league": "Vysshaya League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Thisted FC vs. Middelfart BK",
+      "league": "2nd Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "BC Lokomotiv Kuban Krasnodar vs. BC Uniks Kazan",
+      "league": "United League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SG Sonnenhof Grossaspach vs. Eintracht Stadtallendorf",
+      "league": "Regionalliga Southwest",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "HC Temirtau vs. HC Kulager Petropavlsk",
+      "league": "Vysshaya League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Verbyany, Vasily vs. Didukh, Viktor",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Gornyak Rudnyi vs. Yertis Pavlodar",
+      "league": "Vysshaya League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "BC Zenit Saint Petersburg vs. BC Astana",
+      "league": "United League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "BC Zaporizhya vs. BC Ternopil",
+      "league": "FBU Superleague",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "HC Aktobe vs. Torpedo Ust Kamenogorsk",
+      "league": "Vysshaya League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Basket Zielona Gora vs. BC Tsmoki Minsk",
+      "league": "United League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "BC Dnipro vs. BC Odessa",
+      "league": "FBU Superleague",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Shkurupii, Aleksandr vs. Tsybulin, Sergey",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "HK Beibarys Atyrau vs. Nomad Nur-Sultan",
+      "league": "Vysshaya League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "ACS Champions FC Arges vs. FC CFR 1907 Cluj",
+      "league": "Liga I",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "TPS vs. FC Honka",
+      "league": "Naisten Liiga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "Kurpfalz Baren vs. HSG Bensheim/Auerbach",
+      "league": "Women Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "VfL Oldenburg vs. Neckarsulmer Sport-Union",
+      "league": "Women Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Futsal",
+      "name": "Assoeva vs. ADF Tubarao",
+      "league": "Liga Futsal",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Pnz Im Not Over vs. PSG Raticate 522",
+      "league": "Liga Pro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Futsal",
+      "name": "Pato Futsal vs. ACMF Campo Mourao",
+      "league": "Liga Futsal",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CFC Catalonia FC vs. Aru Arukonda",
+      "league": "Liga Pro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Pnz Im Not Over vs. CFC Catalonia FC",
+      "league": "Liga Pro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Aru Arukonda vs. Meg Megapolice",
+      "league": "Liga Pro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "IK Sonderjyske vs. Frederikshavn White Hawks",
+      "league": "Superisligaen",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CFC Catalonia FC vs. PSG Raticate 522",
+      "league": "Liga Pro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "PSG Raticate 522 vs. Meg Megapolice",
+      "league": "Liga Pro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Futsal",
+      "name": "Joacaba Futsal vs. Umuarama Futsal",
+      "league": "Liga Futsal",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Rungsted Ishockey vs. Esbjerg Energy",
+      "league": "Superisligaen",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Aru Arukonda vs. Pnz Im Not Over",
+      "league": "Liga Pro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Aesch Pfeffingen vs. NUC Volleyball",
+      "league": "Nationalliga A, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Luki-Energiya V.luki vs. FC Kazanka Moscow",
+      "league": "PFL, West",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Smolensk vs. FC Murom",
+      "league": "PFL, West",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Znamya Truda vs. FC Tver",
+      "league": "PFL, West",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Olimp Dolgoprudny vs. FK Kolomna",
+      "league": "PFL, West",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Meg Megapolice vs. Pnz Im Not Over",
+      "league": "Liga Pro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "PSG Raticate 522 vs. Aru Arukonda",
+      "league": "Liga Pro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "IF Sundsvall vs. Kalix UHC",
+      "league": "HockeyEttan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Zvezda St Petersburg vs. Leningradets",
+      "league": "PFL, West",
+      "status": "NSY"
+    },
+    {
+      "sport": "American Football",
+      "name": "New York Giants vs. Tampa Bay Buccaneers",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CSM Politehnica Iasi vs. FC Viitorul Constanta",
+      "league": "Liga I",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Nht Newton Heath vs. EZ1 Vamos EZ1D",
+      "league": "Liga Pro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Ostersunds IK vs. Kiruna AIF",
+      "league": "HockeyEttan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC CFR 1907 Cluj vs. CS Gaz Metan Medias",
+      "league": "Liga I",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Meg Megapolice vs. CFC Catalonia FC",
+      "league": "Liga Pro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Universitatea Craiova 1948 CS vs. AFC Chindia Targoviste",
+      "league": "Liga I",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FSV Wacker 90 Nordhausen vs. Einheit Rudolstadt",
+      "league": "Oberliga NOFV South",
+      "status": "PossiblyCancelled"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Flora Tallinn vs. Nomme Kalju FC",
+      "league": "Premium Liiga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Waasland-Beveren vs. KAA Gent",
+      "league": "First Division A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "1. FC Merseburg vs. FSV Martinroda",
+      "league": "Oberliga NOFV South",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Kuressaare vs. Nomme Kalju FC",
+      "league": "Premium Liiga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "EZ1 Vamos EZ1D vs. NFC Rattata 522",
+      "league": "Liga Pro",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Szombathelyi Haladas FC vs. Bekescsaba 1912 Elore",
+      "league": "NB II",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Tallinna JK Legion vs. FCI Levadia Tallinn",
+      "league": "Premium Liiga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "EZ1 Vamos EZ1D vs. Tbr Tabula Rasa",
+      "league": "Liga Pro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Vila Nova FC GO vs. Clube Do Remo PA",
+      "league": "Brasileiro Serie C",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Paide Linnameeskond vs. JK Narva Trans",
+      "league": "Premium Liiga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Nht Newton Heath vs. Fin Fints",
+      "league": "Liga Pro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Ferroviario AC CE vs. Treze FC PB",
+      "league": "Brasileiro Serie C",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "JK Tallinna Kalev vs. Viljandi JK Tulevik",
+      "league": "Premium Liiga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "NFC Rattata 522 vs. Fin Fints",
+      "league": "Liga Pro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Debreceni VSC vs. ETO FC Gyor",
+      "league": "NB II",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "KKS Lech Poznan vs. Standard Liege",
+      "league": "UEFA Europa League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Tartu JK Tammeka vs. FC Flora Tallinn",
+      "league": "Premium Liiga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Astra Hungary vs. ETO FC Gyor",
+      "league": "NB I, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Comercial FC SP vs. EC Sao Bernardo SP",
+      "league": "Paulista, Serie A3",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Tbr Tabula Rasa vs. NFC Rattata 522",
+      "league": "Liga Pro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Botafogo FC PB vs. EC Jacuipense BA",
+      "league": "Brasileiro Serie C",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Gyirmot FC Gyor vs. Soroksar SC",
+      "league": "NB II",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Sesi SP vs. Caramuru Volei",
+      "league": "Superliga",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Standard Liege vs. KV Oostende",
+      "league": "First Division A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "AC Gozzano vs. Usd Castellanzese 1921",
+      "league": "Serie D, Girone A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "RSC Anderlecht vs. Royal Antwerp FC",
+      "league": "First Division A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Ajka vs. Debreceni Eac",
+      "league": "NB II",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Adana Demirspor vs. Samsunspor",
+      "league": "1. Lig",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Fin Fints vs. Tbr Tabula Rasa",
+      "league": "Liga Pro",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Keciorengucu vs. Istanbulspor AS",
+      "league": "1. Lig",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Szentlorinc SE vs. Aqvital FC Csakvar",
+      "league": "NB II",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "NFC Rattata 522 vs. Nht Newton Heath",
+      "league": "Liga Pro",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Paide Linnameeskond vs. FC Kuressaare",
+      "league": "Premium Liiga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Tbr Tabula Rasa vs. Nht Newton Heath",
+      "league": "Liga Pro",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Eskisehirspor vs. Akhisar Bld Spor",
+      "league": "1. Lig",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Fin Fints vs. EZ1 Vamos EZ1D",
+      "league": "Liga Pro",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Virtus Vecomp Verona vs. SS Matelica Calcio Asd",
+      "league": "Serie C, Group B",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Ssd Vis Pesaro 1898 vs. AS Gubbio 1910",
+      "league": "Serie C, Group B",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "Dessau-Rosslauer HV 06 vs. TV Grosswallstadt",
+      "league": "2nd Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Mantova 1911 vs. Imolese Calcio",
+      "league": "Serie C, Group B",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Modena FC vs. Perugia Calcio Spa",
+      "league": "Serie C, Group B",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Ravenna FC 1913 vs. AJ Fano 1906",
+      "league": "Serie C, Group B",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Sudtirol vs. Sambenedettese",
+      "league": "Serie C, Group B",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Jeonbuk Hyundai Motors vs. Daegu FC",
+      "league": "K-League 1",
+      "status": "Finished"
+    },
+    {
+      "sport": "Boxing",
+      "name": "Prograis, Regis vs. Heraldez, Juan",
+      "league": "International Matchups",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Pohang Steelers FC vs. Sangju Sangmu Phoenix",
+      "league": "K-League 1",
+      "status": "Finished"
+    },
+    {
+      "sport": "Boxing",
+      "name": "Karl, Ryan vs. Barrios, Mario",
+      "league": "International Matchups",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Porto vs. Olympique Marseille",
+      "league": "UEFA Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Ulsan Hyundai FC vs. Gwangju FC",
+      "league": "K-League 1",
+      "status": "Finished"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Mark Basket vs. Visby Ladies",
+      "league": "Damligan, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "RB Leipzig vs. SV Berghofen",
+      "league": "DFB Pokal Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Farul Constanta vs. CS Mioveni",
+      "league": "Liga 2",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Seoul KIXX vs. Daejeon Pro VC",
+      "league": "V League, Women",
+      "status": "inprogress"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Midtjylland vs. Ajax Amsterdam",
+      "league": "UEFA Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Floorball",
+      "name": "Thorengruppen SK vs. Mullsjo AIS",
+      "league": "Svenska Superligan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Barcelona (Kodak) vs. Paris Saint-Germain (Jkey)",
+      "league": "Esports Battle - Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SV 67 Weinberg vs. FFV Erfurt",
+      "league": "DFB Pokal Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Baseball",
+      "name": "Hokkaido Nippon-Ham Fighters vs. Orix Buffaloes",
+      "league": "Professional Baseball",
+      "status": "Finished"
+    },
+    {
+      "sport": "Floorball",
+      "name": "Jonkopings IK vs. IBK Dalen",
+      "league": "Svenska Superligan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Real Madrid (Nikitasav10) vs. Liverpool FC (Driller)",
+      "league": "Esports Battle - Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Ingolstadt 04 vs. TSG 1899 Hoffenheim",
+      "league": "DFB Pokal Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Floorball",
+      "name": "IBF Falun vs. Hollvikens IBF",
+      "league": "Svenska Superligan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Liverpool FC (Driller) vs. FC Barcelona (Kodak)",
+      "league": "Esports Battle - Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "TJ Sokol Wien vs. VBC Weiz",
+      "league": "1. Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Bayern Munich (Plevis) vs. Real Madrid (Nikitasav10)",
+      "league": "Esports Battle - Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Floorball",
+      "name": "Linkoping IBK vs. Storvreta IBK",
+      "league": "Svenska Superligan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Paris Saint-Germain (Jkey) vs. Liverpool FC (Driller)",
+      "league": "Esports Battle - Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Floorball",
+      "name": "FC Helsingborg vs. FBC Kalmarsund",
+      "league": "Svenska Superligan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Barcelona (Kodak) vs. FC Bayern Munich (Plevis)",
+      "league": "Esports Battle - Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Baseball",
+      "name": "Saitama Seibu Lions vs. Fukuoka Softbank Hawks",
+      "league": "Professional Baseball",
+      "status": "Finished"
+    },
+    {
+      "sport": "Floorball",
+      "name": "Vaxjo IBK vs. Fagerhult Habo IBK",
+      "league": "Svenska Superligan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Baseball",
+      "name": "Chiba Lotte Marines vs. Tohoku Rakuten Golden Eagles",
+      "league": "Professional Baseball",
+      "status": "Finished"
+    },
+    {
+      "sport": "Floorball",
+      "name": "IK Sirius IBK vs. Pixbo Wallenstam",
+      "league": "Svenska Superligan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Real Madrid (Nikitasav10) vs. FC Bayern Munich (Plevis)",
+      "league": "Esports Battle - Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Manchester City FC vs. Olympiacos Piraeus",
+      "league": "UEFA Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Barcelona (Kodak) vs. Liverpool FC (Driller)",
+      "league": "Esports Battle - Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Boxing",
+      "name": "Inoue, Naoya vs. Moloney, Jason",
+      "league": "International Matchups",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Liverpool FC (Driller) vs. Paris Saint-Germain (Jkey)",
+      "league": "Esports Battle - Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Bayern Munich (Plevis) vs. FC Barcelona (Kodak)",
+      "league": "Esports Battle - Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Bayern Munich (Plevis) vs. Paris Saint-Germain (Jkey)",
+      "league": "Esports Battle - Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Real Madrid (Nikitasav10) vs. FC Barcelona (Kodak)",
+      "league": "Esports Battle - Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Liverpool FC (Driller) vs. FC Bayern Munich (Plevis)",
+      "league": "Esports Battle - Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Paris Saint-Germain (Jkey) vs. Real Madrid (Nikitasav10)",
+      "league": "Esports Battle - Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Alemannia Aachen vs. SSC Schwerin",
+      "league": "1st Bundesliga Women",
+      "status": "Postponed"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Barcelona (Kodak) vs. Real Madrid (Nikitasav10)",
+      "league": "Esports Battle - Champions League",
+      "status": "inprogress"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Usc Munster vs. MTV Stuttgart",
+      "league": "1st Bundesliga Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Paris Saint-Germain (Jkey) vs. FC Bayern Munich (Plevis)",
+      "league": "Esports Battle - Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Bayern Munich (Plevis) vs. Liverpool FC (Driller)",
+      "league": "Esports Battle - Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Real Madrid (Nikitasav10) vs. Paris Saint-Germain (Jkey)",
+      "league": "Esports Battle - Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Liverpool FC (Driller) vs. Real Madrid (Nikitasav10)",
+      "league": "Esports Battle - Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Nawaro Straubing vs. Dresdner SC",
+      "league": "1st Bundesliga Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Club Malvin vs. Club Atletico Olimpia",
+      "league": "LUB",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Paris Saint-Germain (Jkey) vs. FC Barcelona (Kodak)",
+      "league": "Esports Battle - Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Shakhtar Donetsk vs. Borussia Monchengladbach",
+      "league": "UEFA Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Vegalta Sendai vs. Kashiwa Reysol",
+      "league": "J.League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Yokohama FC vs. Oita Trinita",
+      "league": "J.League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Kawasaki Frontale vs. Hokkaido Consadole Sapporo",
+      "league": "J.League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Vaxjo DFF vs. Kopparbergs/Goteborg FC",
+      "league": "Damallsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Nove Zamky vs. Slovan Bratislava",
+      "league": "Extraliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Crewe Alexandra vs. Cardiff City",
+      "league": "Professional Development League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Eskilstuna UnitedDFF vs. Djurgaardens IF",
+      "league": "Damallsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Linkopings FC vs. Pitea IF DFF",
+      "league": "Damallsvenskan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Iskenderun FK vs. Yozgatspor 1959 FK",
+      "league": "3. Lig, Group 2",
+      "status": "NSY"
+    },
+    {
+      "sport": "Field hockey",
+      "name": "Belgium vs. Great Britain",
+      "league": "Pro League, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Deportivo Saprissa vs. Liga Deportiva Alajuelense",
+      "league": "Primera Division, Apertura",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "CS Herediano vs. Sporting FC",
+      "league": "Primera Division, Apertura",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "CS Cartagines vs. AD Municipal Grecia",
+      "league": "Primera Division, Apertura",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Adr Jicaral vs. Guadalupe FC",
+      "league": "Primera Division, Apertura",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "BC Pieno Zvaigzdes Pasvalys vs. BC Prienai",
+      "league": "LKL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Gornyak Uchaly vs. Sokol Krasnoyarsk",
+      "league": "VHL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Sanfrecce Hiroshima vs. Urawa Red Diamonds",
+      "league": "J.League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "RB Leipzig (Fasqer) vs. Atalanta BC (Libra)",
+      "league": "Cyber Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Midtjylland (Oolancer) vs. Club Brugge (Walker)",
+      "league": "Cyber Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Shimizu S-Pulse vs. Vissel Kobe",
+      "league": "J.League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Dynamo Kyiv (Kodak) vs. Lokomotiv Moscow (Jkey)",
+      "league": "Esports Battle - Cis Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Omicinskiy, Evgeniy vs. Miniailo, Yehor",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Shakhtar Donetsk (Nikitasav10) vs. Spartak Moscow (Driller)",
+      "league": "Esports Battle - Cis Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "CSKA Moscow (Plevis) vs. Shakhtar Donetsk (Nikitasav10)",
+      "league": "Esports Battle - Cis Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Yunchyk, Valentyn vs. Verbyany, Vasily",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Spartak Moscow (Driller) vs. Dynamo Kyiv (Kodak)",
+      "league": "Esports Battle - Cis Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Borysov, Artem vs. Zhuravliov, Maxim",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Lokomotiv Moscow (Jkey) vs. Spartak Moscow (Driller)",
+      "league": "Esports Battle - Cis Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Trofimov, Nikita vs. Masko, Evgeniy",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Dynamo Kyiv (Kodak) vs. CSKA Moscow (Plevis)",
+      "league": "Esports Battle - Cis Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Ferencvarosi TC vs. Juventus Turin",
+      "league": "UEFA Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Nechyporuk, Vadym vs. Yunchyk, Valentyn",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Myrza, Anton vs. Omicinskiy, Evgeniy",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Zhukovskij, Aleksandr vs. Dubrovin, Dmitry",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Shakhtar Donetsk (Nikitasav10) vs. CSKA Moscow (Plevis)",
+      "league": "Esports Battle - Cis Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Defensor Sporting vs. Penarol Montevideo",
+      "league": "Primera Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Kushnyr, Vasiliy vs. Didukh, Viktor",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Dynamo Kyiv (Kodak) vs. Spartak Moscow (Driller)",
+      "league": "Esports Battle - Cis Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Zhuravliov, Maxim vs. Kuznetsov, Ihor",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Spartak Moscow (Driller) vs. Lokomotiv Moscow (Jkey)",
+      "league": "Esports Battle - Cis Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "RB Leipzig vs. Paris Saint-Germain FC",
+      "league": "UEFA Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Masko, Evgeniy vs. Shkurupii, Aleksandr",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CSKA Moscow (Plevis) vs. Dynamo Kyiv (Kodak)",
+      "league": "Esports Battle - Cis Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Nechyporuk, Vadym vs. Kushnyr, Vasiliy",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CSKA Moscow (Plevis) vs. Lokomotiv Moscow (Jkey)",
+      "league": "Esports Battle - Cis Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Shakhtar Donetsk (Nikitasav10) vs. Dynamo Kyiv (Kodak)",
+      "league": "Esports Battle - Cis Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Pismenniy, Evgeniy vs. Tsybulin, Sergey",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Spartak Moscow (Driller) vs. CSKA Moscow (Plevis)",
+      "league": "Esports Battle - Cis Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Lokomotiv Moscow (Jkey) vs. Shakhtar Donetsk (Nikitasav10)",
+      "league": "Esports Battle - Cis Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Yarovoi, Oleksandr vs. Zhuravliov, Maxim",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Pismenniy, Evgeniy vs. Masko, Evgeniy",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Vasteraas SK vs. Trelleborgs FF",
+      "league": "Superettan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Nechyporuk, Vadym vs. Verbyany, Vasily",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Lokomotiv Moscow (Jkey) vs. CSKA Moscow (Plevis)",
+      "league": "Esports Battle - Cis Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Trofimov, Nikita vs. Shcherbak, Denys",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CSKA Moscow (Plevis) vs. Spartak Moscow (Driller)",
+      "league": "Esports Battle - Cis Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Dubrovin, Dmitry vs. Lytvynenko, Mykola",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Shakhtar Donetsk (Nikitasav10) vs. Lokomotiv Moscow (Jkey)",
+      "league": "Esports Battle - Cis Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Spartak Moscow (Driller) vs. Shakhtar Donetsk (Nikitasav10)",
+      "league": "Esports Battle - Cis Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Borysov, Artem vs. Volokhov, Vladislav",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Ljungskile SK vs. Umea FC",
+      "league": "Superettan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Lokomotiv Moscow (Jkey) vs. Dynamo Kyiv (Kodak)",
+      "league": "Esports Battle - Cis Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Nechyporuk, Vadym vs. Didukh, Viktor",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Nakhon Ratchasima FC vs. Prachuap FC",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Myrza, Anton vs. Tuchkevych, Volodymyr",
+      "league": "TT Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Shcherbak, Denys vs. Tsybulin, Sergey",
+      "league": "TT Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Chonburi FC vs. Ratchaburi Mitr Phol FC",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Zhukovskij, Aleksandr vs. Lytvynenko, Mykola",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Omicinskiy, Evgeniy vs. Savoliuk, Vladimir",
+      "league": "TT Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Samut Prakan City FC vs. Sukhothai FC",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Salgueiro PE vs. Afogados Ingazeira PE",
+      "league": "Brasileiro Serie D",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Zhukovskij, Aleksandr vs. Filatov, Sergey",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Yunchyk, Valentyn vs. Kushnyr, Vasiliy",
+      "league": "TT Cup",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Masko, Evgeniy vs. Shcherbak, Denys",
+      "league": "TT Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Filatov, Sergey vs. Lytvynenko, Mykola",
+      "league": "TT Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Savoliuk, Vladimir vs. Miniailo, Yehor",
+      "league": "TT Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Zhuravliov, Maxim vs. Volokhov, Vladislav",
+      "league": "TT Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Dubrovin, Dmitry vs. Filatov, Sergey",
+      "league": "TT Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Kushnyr, Vasiliy vs. Verbyany, Vasily",
+      "league": "TT Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Borysov, Artem vs. Kuznetsov, Ihor",
+      "league": "TT Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Trofimov, Nikita vs. Shkurupii, Aleksandr",
+      "league": "TT Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Simonchuk, David vs. Kovalov, Oleksandr",
+      "league": "TT Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Vovk, Vitalii vs. Chermensky, Andrey",
+      "league": "TT Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Tennis",
+      "name": "Travaglia, Stefano vs. Mager, Gianluca",
+      "league": "ATP Paris, France Men Singles",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Minnesota United FC vs. Chicago Fire",
+      "league": "Major League Soccer",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Borysov, Artem vs. Kiilo, Serhii",
+      "league": "TT Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Trofimov, Nikita vs. Tsybulin, Sergey",
+      "league": "TT Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Yarovoi, Oleksandr vs. Kuznetsov, Ihor",
+      "league": "TT Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Pismenniy, Evgeniy vs. Shkurupii, Aleksandr",
+      "league": "TT Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Club Brugge vs. Borussia Dortmund",
+      "league": "UEFA Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Yunchyk, Valentyn vs. Didukh, Viktor",
+      "league": "TT Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Omicinskiy, Evgeniy vs. Tuchkevych, Volodymyr",
+      "league": "TT Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Finn Harps FC vs. Shamrock Rovers",
+      "league": "Premier Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Sevilla FC vs. FC Krasnodar",
+      "league": "UEFA Champions League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "1 FC Cologne vs. Bayer Leverkusen",
+      "league": "DFB Pokal Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Goteborg HC 1 vs. Djurgardens IF",
+      "league": "SDHL, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Lulea HF vs. Leksands IF",
+      "league": "SDHL, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "US Corticella vs. ASD Seravezza Pozzi Calcio",
+      "league": "Serie D, Girone D",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Giravanz Kitakyushu vs. Omiya Ardija",
+      "league": "J.League 2",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Cerro Porteno vs. Libertad Asuncion",
+      "league": "Primera Division, Clausura",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Jubilo Iwata vs. Avispa Fukuoka",
+      "league": "J.League 2",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Kyoto Sanga FC vs. Montedio Yamagata",
+      "league": "J.League 2",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Club River Plate Asuncion vs. Club Guarani",
+      "league": "Primera Division, Clausura",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Niigata Albirex vs. Tokyo Verdy",
+      "league": "J.League 2",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Club Olimpia vs. Sportivo San Lorenzo",
+      "league": "Primera Division, Clausura",
+      "status": "NSY"
+    },
+    {
+      "sport": "American Football",
+      "name": "Minnesota Vikings vs. Detroit Lions",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Zweigen Kanazawa vs. Giravanz Kitakyushu",
+      "league": "J.League 2",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Deportivo Achuapa vs. Deportivo Sanarate FC",
+      "league": "Liga Nacional. Apertura",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Mito Hollyhock vs. Avispa Fukuoka",
+      "league": "J.League 2",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Fagiano Okayama vs. JEF United Ichihara Chiba",
+      "league": "J.League 2",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "V-Varen Nagasaki vs. Mito Hollyhock",
+      "league": "J.League 2",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Chiangmai FC vs. Khon Kaen FC",
+      "league": "Thai League 2",
+      "status": "NSY"
+    },
+    {
+      "sport": "American Football",
+      "name": "Seattle Seahawks vs. San Francisco 49ers",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Kagera Sugar vs. Mtibwa Sugar FC",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Khon Kaen United FC vs. Chiangmai United",
+      "league": "Thai League 2",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Ruvu Shooting vs. Coastal Union FC",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Samut Sakhon FC vs. Udon Thani FC",
+      "league": "Thai League 2",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Riga FC vs. FK Metta / Lu",
+      "league": "Virsliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "American Football",
+      "name": "Green Bay Packers vs. Minnesota Vikings",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Baseball",
+      "name": "LG Twins vs. Kiwoom Heroes",
+      "league": "KBO League",
+      "status": "PossiblyCancelled"
+    },
+    {
+      "sport": "Football",
+      "name": "Lampang FC vs. Nongbua Pitchaya FC",
+      "league": "Thai League 2",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Aons Milonas vs. Foinikas Syroy",
+      "league": "A1",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "RB Leipzig (Stdm) vs. FC Bayern Munich (Nixtape)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Enkopings SK HK vs. Wings Arlanda HC",
+      "league": "HockeyEttan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "OKK Beograd vs. Kkk Radnicki",
+      "league": "KLS",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Augsburg (Baphomet) vs. TSG 1899 Hoffenheim (Kiser)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "VfL Wolfsburg (Vito) vs. Herta BSC (Olom)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Hudiksvalls HC vs. Huddinge IK",
+      "league": "HockeyEttan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "TSG 1899 Hoffenheim (Kiser) vs. Herta BSC (Olom)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Augsburg (Baphomet) vs. Eintracht Frankfurt (Fagur)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Kazincbarcikai SC vs. Budaorsi SC",
+      "league": "NB II",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Bayer 04 Leverkusen (Alback) vs. Borussia Monchengladbach (Dinototli)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Floorball",
+      "name": "TPS vs. OLS Oulu",
+      "league": "Salibandyliigan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Augsburg (Baphomet) vs. VfL Wolfsburg (Vito)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Eintracht Frankfurt (Fagur) vs. TSG 1899 Hoffenheim (Kiser)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Tochigi SC vs. Ventforet Kofu",
+      "league": "J.League 2",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Bayer 04 Leverkusen (Alback) vs. RB Leipzig (Stdm)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "IF Sylvia vs. Nykoping BIS",
+      "league": "Div 1, Norra",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "IFK Haninge vs. Sandvikens IF",
+      "league": "Div 1, Norra",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Machida Zelvia vs. Ehime FC",
+      "league": "J.League 2",
+      "status": "inprogress"
+    },
+    {
+      "sport": "American Football",
+      "name": "Cleveland Browns vs. Las Vegas Raiders",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Bayern Munich (Nixtape) vs. Borussia Monchengladbach (Dinototli)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Matsumoto Yamaga FC vs. Renofa Yamaguchi",
+      "league": "J.League 2",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Mynavi Vegalta Sendai vs. Ehime FC",
+      "league": "Nadeshiko League, Div. 1, Women",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Herta BSC (Olom) vs. Eintracht Frankfurt (Fagur)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "IK Frej vs. IFK Luleaa",
+      "league": "Div 1, Norra",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Thespakusatsu vs. Tokushima Vortis",
+      "league": "J.League 2",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "LKS Lodz vs. Budowlani Lodz",
+      "league": "Liga Siatkowki, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "American Football",
+      "name": "Buffalo Bills vs. Seattle Seahawks",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "VfL Wolfsburg (Vito) vs. TSG 1899 Hoffenheim (Kiser)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Omiya Ardija vs. FC Ryukyu",
+      "league": "J.League 2",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "IF Brommapojkarna vs. Taby FK",
+      "league": "Div 1, Norra",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "INAC Kobe Leonessa vs. Cerezo Osaka Sakai Ladies",
+      "league": "Nadeshiko League, Div. 1, Women",
+      "status": "Finished"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "MKS Kalisz vs. Volley Wroclaw",
+      "league": "Liga Siatkowki, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Herta BSC (Olom) vs. TSG 1899 Hoffenheim (Kiser)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Lokomotiv Sofia vs. CSKA Sofia",
+      "league": "Volleyball Super League, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Eintracht Frankfurt (Fagur) vs. FC Augsburg (Baphomet)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "American Football",
+      "name": "Philadelphia Eagles vs. Dallas Cowboys",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Borussia Monchengladbach (Dinototli) vs. Bayer 04 Leverkusen (Alback)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Borussia Monchengladbach (Dinototli) vs. RB Leipzig (Stdm)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Eintracht Frankfurt (Fagur) vs. VfL Wolfsburg (Vito)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Augsburg (Baphomet) vs. Herta BSC (Olom)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Bayer 04 Leverkusen (Alback) vs. FC Bayern Munich (Nixtape)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "American Football",
+      "name": "Buffalo Bills vs. New England Patriots",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "HB Torshavn vs. TB Tvoeroyri",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Eb/Streymur vs. Skala IF",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "IF Fuglafjordur vs. AB Argir",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Molfetta Calcio vs. AZ Picerno",
+      "league": "Serie D, Girone H",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Vikingur Gota vs. B36 Torshavn",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Olympiakos Nicosia vs. AC Omonia Nicosia",
+      "league": "1st Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Real Esteli FC vs. CD Walter Ferretti",
+      "league": "Primera Division",
+      "status": "Finished"
+    },
+    {
+      "sport": "Handball",
+      "name": "MGA Fivers vs. SC Ferlach",
+      "league": "WHA GD Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Asd Team Altamura vs. Sorrento Calcio",
+      "league": "Serie D, Girone H",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "NSI Runavik vs. KI Klaksvik",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Spartak Moskow vs. Mikhaylov Academy Novomoskovsk",
+      "league": "MHL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Yantra Gabrovo vs. Gorna Oryahovitsa",
+      "league": "Second Prof. League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Septemvri Simitli vs. PFK Sportist Svoge",
+      "league": "Second Prof. League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Broadmeadow Magic FC vs. Maitland FC",
+      "league": "NPL, Northern New South",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Silkeborg IF vs. Vendsyssel FF",
+      "league": "1st Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "IFK Kumla vs. HC Dalen",
+      "league": "HockeyEttan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Karmiotissa FC vs. Anorthosis Famagusta",
+      "league": "1st Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Boxing",
+      "name": "Brodnicka, Ewa vs. Mayer, Mikaela",
+      "league": "Matchups, Women",
+      "status": "Finished"
+    },
+    {
+      "sport": "American Football",
+      "name": "Denver Broncos vs. Los Angeles Chargers",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "Sandnes HK vs. Vikhammer",
+      "league": "1. Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Boxing",
+      "name": "Rodriguez, Julian vs. Rodriguez, Jose Luis",
+      "league": "International Matchups",
+      "status": "Finished"
+    },
+    {
+      "sport": "Handball",
+      "name": "Herulf Moss vs. Kristiansand IF",
+      "league": "1. Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "SK Falk vs. Follo HK",
+      "league": "1. Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "Rhein-Neckar Lowen vs. HBW Balingen-Weilstetten",
+      "league": "Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "EC Juventude RS vs. Guarani FC SP",
+      "league": "Brasileiro Serie B",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Segeltorps IF vs. Sollentuna HC",
+      "league": "HockeyEttan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "VC Tartu vs. Saaremaa VK",
+      "league": "Baltic Volleyball League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "VK Selver Tallinn vs. VK Biolars/Jelgava",
+      "league": "Baltic Volleyball League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "THW Kiel vs. TSV GWD Minden",
+      "league": "Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Parnu Vk vs. RTU Robezsardze",
+      "league": "Baltic Volleyball League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Managua FC vs. Art Municipal Jalapa",
+      "league": "Primera Division",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "CS Alagoano AL vs. Nautico PE",
+      "league": "Brasileiro Serie B",
+      "status": "Finished"
+    },
+    {
+      "sport": "Handball",
+      "name": "HSC 2000 Coburg vs. SC Magdeburg",
+      "league": "Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Boxing",
+      "name": "Rivera, Michel vs. Miller, Ladarius",
+      "league": "International Matchups",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Energetik BGU Minsk vs. Slutsksakhar Slutsk",
+      "league": "Vysshaya Liga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Handball",
+      "name": "MT Melsungen vs. HSG Nordhorn-Lingen",
+      "league": "Bundesliga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Volley Schonenwerd vs. Lausanne UC",
+      "league": "Nationalliga A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Cuiaba Esporte Clube MT vs. CR Brasil AL",
+      "league": "Brasileiro Serie B",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "San Gwann FC vs. Swieqi United FC",
+      "league": "First Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Volta Redonda FC RJ vs. EC Sao Jose RS",
+      "league": "Brasileiro Serie C",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SC Internacional RS vs. SE Kindermann SC",
+      "league": "Campeonato Brasileiro, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Boa EC MG vs. Londrina EC PR",
+      "league": "Brasileiro Serie C",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Abc FC RN vs. ACD Potiguar RN",
+      "league": "Brasileiro Serie D",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Santos FC SP vs. Sao Paulo FC SP",
+      "league": "Campeonato Brasileiro, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "AA Coruripe AL vs. Jacioba AC AL",
+      "league": "Brasileiro Serie D",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Criciuma EC SC vs. Tombense FC MG",
+      "league": "Brasileiro Serie C",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Catalcaspor vs. Karsiyaka",
+      "league": "3. Lig, Group 3",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Ferroviaria SP vs. SE Palmeiras SP",
+      "league": "Campeonato Brasileiro, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Souths United vs. Mitchelton FC",
+      "league": "NPL Queensland, Women",
+      "status": "PossiblyCancelled"
+    },
+    {
+      "sport": "Football",
+      "name": "Angers SCO vs. OGC Nice",
+      "league": "Ligue 1",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Dijon FCO vs. FC Lorient",
+      "league": "Ligue 1",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "LOSC Lille vs. Olympique Lyonnais",
+      "league": "Ligue 1",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Gil Vicente FC vs. Vitoria Guimarares",
+      "league": "Primeira Liga",
+      "status": "NSY"
+    },
+    {
+      "sport": "American Football",
+      "name": "Baltimore Ravens vs. Pittsburgh Steelers",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Sporting CP vs. CD Tondela",
+      "league": "Primeira Liga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "AD Frei Paulistano SE vs. AO Itabaiana SE",
+      "league": "Brasileiro Serie D",
+      "status": "NSY"
+    },
+    {
+      "sport": "American Football",
+      "name": "San Francisco 49ers vs. Green Bay Packers",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Portimonense SC vs. CD Santa Clara",
+      "league": "Primeira Liga",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Ypiranga FC RS vs. EC Sao Bento SP",
+      "league": "Brasileiro Serie C",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Golcukspor vs. Altindagspor",
+      "league": "3. Lig, Group 3",
+      "status": "NSY"
+    },
+    {
+      "sport": "American Football",
+      "name": "Kansas City Chiefs vs. New York Jets",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "American Football",
+      "name": "Cincinnati Bengals vs. Tennessee Titans",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Ornskoldsviks SK vs. Pitea HC",
+      "league": "HockeyEttan",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Brateyko, Solomiya vs. Kurishenko, Maria",
+      "league": "TT Cup, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "LP Vampula vs. Puijo Wolley",
+      "league": "Mestaruusliiga, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Brateyko, Solomiya vs. Evtodiy, Iolanta",
+      "league": "TT Cup, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Kurishenko, Maria vs. Gud, Veronika",
+      "league": "TT Cup, Women",
+      "status": "Finished"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Brateyko, Solomiya vs. Kondratenko, Victoriia",
+      "league": "TT Cup, Women",
+      "status": "Finished"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Polkky Kuusamo vs. Hameenlinna",
+      "league": "Mestaruusliiga, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Evtodiy, Iolanta vs. Kurishenko, Maria",
+      "league": "TT Cup, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Brateyko, Solomiya vs. Gud, Veronika",
+      "league": "TT Cup, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "PFC Ludogorets 1945 Razgrad vs. PFC Levski Sofia",
+      "league": "First Professional League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "PFC CSKA Sofia vs. FC Tsarsko Selo Sofia",
+      "league": "First Professional League",
+      "status": "NSY"
+    },
+    {
+      "sport": "American Football",
+      "name": "Indianapolis Colts vs. Baltimore Ravens",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Etar Veliko Tarnovo vs. FC Arda Kardzhali",
+      "league": "First Professional League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Tsarsko Selo Sofia vs. PFK Beroe Stara Zagora",
+      "league": "First Professional League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "PFC Montana 1921 vs. PFC CSKA Sofia",
+      "league": "First Professional League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Table Tennis",
+      "name": "Evtodiy, Iolanta vs. Kondratenko, Victoriia",
+      "league": "TT Cup, Women",
+      "status": "Finished"
+    },
+    {
+      "sport": "American Football",
+      "name": "Arizona Cardinals vs. Miami Dolphins",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC CSKA 1948 vs. PFC Ludogorets 1945 Razgrad",
+      "league": "First Professional League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Dynamo Kursk vs. Sparta K Vidnoe",
+      "league": "Premier League Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Baseball",
+      "name": "Chunichi Dragons vs. Hiroshima Toyo Carp",
+      "league": "Professional Baseball",
+      "status": "Finished"
+    },
+    {
+      "sport": "Baseball",
+      "name": "Yokohama Dena Baystars vs. Hanshin Tigers",
+      "league": "Professional Baseball",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Santos FC SP vs. EC Bahia BA",
+      "league": "Brasileiro Serie A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Haugesund vs. Nidaros Hockey",
+      "league": "1st Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Ice Hockey",
+      "name": "Comet vs. Tonsberg Og Omegn IHK",
+      "league": "1st Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Bayern Munich (Nixtape) vs. RB Leipzig (Stdm)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Ferencvarosi TC vs. Mezokovesd Zsory SE",
+      "league": "NB I",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Perun Varna vs. Maritsa Plovdiv",
+      "league": "Volleyball Super League, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Herta BSC (Olom) vs. VfL Wolfsburg (Vito)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Slavia - SU Sofia vs. Kazanlak Volley",
+      "league": "Volleyball Super League, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Baseball",
+      "name": "Yomiuri Giants vs. Tokyo Yakult Swallows",
+      "league": "Professional Baseball",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "TSG 1899 Hoffenheim (Kiser) vs. FC Augsburg (Baphomet)",
+      "league": "Germany Cyber Stars League",
+      "status": "Finished"
+    },
+    {
+      "sport": "American Football",
+      "name": "Tampa Bay Buccaneers vs. New Orleans Saints",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Volleyball",
+      "name": "Varna Dks vs. Vk Beroe Stara Zagora",
+      "league": "Volleyball Super League, Women",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Zalaegerszeg TE vs. Kisvarda Master Good FC",
+      "league": "NB I",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Jeju United FC vs. Seoul E-Land FC",
+      "league": "K-League 2",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Goias EC GO vs. CR Vasco da Gama RJ",
+      "league": "Brasileiro Serie A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Rugby",
+      "name": "Taranaki vs. Counties Manukau",
+      "league": "Mitre 10 Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Rugby",
+      "name": "Manawatu vs. Southland",
+      "league": "Mitre 10 Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Kisvarda Master Good FC vs. Diosgyori VTK",
+      "league": "NB I",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Ujpest FC vs. MTK Budapest FC",
+      "league": "NB I",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SC Recife PE vs. CA Paranaense PR",
+      "league": "Brasileiro Serie A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Kk Promo Donji Vakuf vs. Kk Borac Banja Luka",
+      "league": "1st Division",
+      "status": "Finished"
+    },
+    {
+      "sport": "Rugby",
+      "name": "Bay of Plenty vs. Hawke&apos;s Bay",
+      "league": "Mitre 10 Cup",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "Fortaleza EC CE vs. Fluminense FC RJ",
+      "league": "Brasileiro Serie A",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Sloboda Tuzla vs. FK Borac Banja Luka",
+      "league": "Premijer Liga",
+      "status": "NSY"
+    },
+    {
+      "sport": "American Football",
+      "name": "Chicago Bears vs. New Orleans Saints",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Jeonnam Dragons vs. Ansan Greeners",
+      "league": "K-League 2",
+      "status": "inprogress"
+    },
+    {
+      "sport": "Football",
+      "name": "Barcelona SC vs. LDU Quito",
+      "league": "LigaPro Primera A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Santos FC SP vs. CR Flamengo RJ",
+      "league": "U20 Campeonato Brasileiro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Energie Cottbus vs. FSV Luckenwalde",
+      "league": "Regionalliga Northeast",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FSV Optik Rathenow vs. Bischofswerdaer FV 1908",
+      "league": "Regionalliga Northeast",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Zenit Saint Petersburg vs. FC Krasnodar",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "BSG Chemie Leipzig vs. Chemnitzer FC",
+      "league": "Regionalliga Northeast",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Ufa vs. FK Ural Yekaterinburg",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Gremio FB Porto Alegrense RS vs. Chapecoense SC",
+      "league": "U20 Campeonato Brasileiro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Khimki vs. FK Zenit Saint Petersburg",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Slagelse BI vs. HIK Hellerup",
+      "league": "2nd Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SK Rotor Volgograd vs. CSKA Moscow",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Nykoebing FC vs. Naestved BK",
+      "league": "2nd Division",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SE Palmeiras SP vs. Ceara SC CE",
+      "league": "U20 Campeonato Brasileiro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Tambov vs. FK Dinamo Moscow",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "AS Saint-Etienne vs. Montpellier HSC",
+      "league": "Ligue 1",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Girondins Bordeaux vs. Montpellier HSC",
+      "league": "Ligue 1",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "CD Universidad Catolica del Ecuador vs. CSD Independiente del Valle",
+      "league": "LigaPro Primera A",
+      "status": "Finished"
+    },
+    {
+      "sport": "Football",
+      "name": "AS Monaco FC vs. FC Girondins Bordeaux",
+      "league": "Ligue 1",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Olympique Nimes vs. FC Metz",
+      "league": "Ligue 1",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Orense SC vs. CD Olmedo",
+      "league": "LigaPro Primera A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Stade Reims vs. RC Strasbourg Alsace",
+      "league": "Ligue 1",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "SD Aucas vs. CS Emelec",
+      "league": "LigaPro Primera A",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Budafoki Mte vs. Paksi FC",
+      "league": "NB I",
+      "status": "NSY"
+    },
+    {
+      "sport": "American Football",
+      "name": "Tennessee Titans vs. Chicago Bears",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "Araski AES vs. Basket Zaragoza 2002",
+      "league": "Liga Femenina",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Aalborg BK vs. Broendby IF",
+      "league": "Superligaen",
+      "status": "NSY"
+    },
+    {
+      "sport": "American Football",
+      "name": "Detroit Lions vs. Indianapolis Colts",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Odense Boldklub vs. AC Horsens",
+      "league": "Superligaen",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "VSG Altglienicke vs. FC Carl Zeiss Jena",
+      "league": "Regionalliga Northeast",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Cruzeiro EC MG vs. Botafogo FR RJ",
+      "league": "U20 Campeonato Brasileiro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FC Copenhagen vs. Lyngby BK",
+      "league": "Superligaen",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "Goias EC GO vs. Sao Paulo FC SP",
+      "league": "U20 Campeonato Brasileiro",
+      "status": "NSY"
+    },
+    {
+      "sport": "Basketball",
+      "name": "CB Estudiantes vs. Gipuzkoa IDK",
+      "league": "Liga Femenina",
+      "status": "NSY"
+    },
+    {
+      "sport": "American Football",
+      "name": "Miami Dolphins vs. Los Angeles Rams",
+      "league": "NFL",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "FK Ural Yekaterinburg vs. FK Spartak Moscow",
+      "league": "Premier League",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "ZFC Meuselwitz vs. BFC Dynamo",
+      "league": "Regionalliga Northeast",
+      "status": "NSY"
+    },
+    {
+      "sport": "Football",
+      "name": "VfB Germania Halberstadt vs. SV Babelsberg",
+      "league": "Regionalliga Northeast",
+      "status": "NSY"
+    }
+  ]
+}

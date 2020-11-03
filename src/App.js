@@ -1,23 +1,38 @@
-import logo from './logo.svg';
+import React, { useEffect, useState } from 'react';
 import './App.css';
+import Pagination from './components/Pagination'
+import 'bootstrap/dist/css/bootstrap.min.css'
+import Games from './components/Games'
+import axios from 'axios'
 
 function App() {
+  const [games, setGames] = useState([])
+  const [currentPages, setCurrentPages] = useState(1)
+  const [gamesPerPage] = useState(20)
+
+
+  useEffect(() => {
+    const fetchGames = async () => {
+      const res = await axios.get('http://localhost:3000/games')
+      setGames(res.data)
+    }
+
+    fetchGames()
+  }, [])
+
+  const indexOfLastGame = currentPages * gamesPerPage
+  const indexOfFirstGame = indexOfLastGame - gamesPerPage
+  const currentGames = games.slice(indexOfFirstGame, indexOfLastGame)
+  
+
+  console.log(games)
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+<h1>Sport Games</h1>
+
+
+<Games games={currentGames}/>
+<Pagination setCurrentPages={setCurrentPages}/>
     </div>
   );
 }
