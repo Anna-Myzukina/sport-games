@@ -8,7 +8,7 @@ import axios from 'axios'
 function App() {
   const [games, setGames] = useState([])
   const [currentPages, setCurrentPages] = useState(1)
-  const [gamesPerPage] = useState(10)
+  const [gamesPerPage] = useState(20)
 
 
   useEffect(() => {
